@@ -1,5 +1,7 @@
 # Person Viewer Backend
 
+![Build](https://github.com/Torokzoliii/person-viewer-backend-devops/actions/workflows/ci.yml/badge.svg)
+
 ## Tech
 Spring Boot, JPA, Flyway, MySQL, Testcontainers, JUnit, Prometheus
 
